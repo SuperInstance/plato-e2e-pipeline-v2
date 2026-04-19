@@ -1,0 +1,8 @@
+[package]
+name = "plato-e2e-pipeline-v2"
+version = "0.1.0"
+edition = "2021"
+description = "End-to-end tile pipeline: mint → validate → score → store → search → dedup → version"
+license = "MIT"
+
+[dependencies]
